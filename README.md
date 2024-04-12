@@ -150,11 +150,11 @@ Coming Soon....
 
 Notes:
 
-1). Focus is on writing/generating highly unique, SEO optimized blog content.
-2). Models: Openai, gemini, ollama are interesting. Minstral API is also worth exploring. Cohere API is purpose made.
+1). Focus is on writing/generating highly unique, SEO optimized blog content. <br>
+2). Models: Openai, gemini, ollama are interesting. Minstral API is also worth exploring. Cohere API is purpose made. <br>
 Focus is getting the prompts right. Shit in, shit out, irrespective of dollars and cutting edge models.
-Pydantically speakng, Due to experimental nature of prompting, its getting expensive soon enough. Gemini is free for now.
-3). Missing frontend: A smart backend will enable a good frontend. WIP, backend. So, frontend; coming soon.
-4).Getting AI agents to 'brainstrom' blog ideas seems more pressing. CrewAI seems more straightforward than autogen.
-5). Too Many APIs floating around: The implementation is using tools that dont depend on API keys and rather scrape them.
-Duh, scraping wont scale, that is GPT vision based scraping will come in handy.
+Pydantically speakng, Due to experimental nature of prompting, its getting expensive soon enough. Gemini is free for now. <br>
+3). Missing frontend: A smart backend will enable a good frontend. WIP, backend. So, frontend; coming soon. <br>
+4).Getting AI agents to 'brainstrom' blog ideas seems more pressing. CrewAI seems more straightforward than autogen. <br>
+5). Too Many APIs floating around: The implementation is using tools that dont depend on API keys and rather scrape them. <br>
+Duh, scraping wont scale, that is GPT vision based scraping will come in handy. 
